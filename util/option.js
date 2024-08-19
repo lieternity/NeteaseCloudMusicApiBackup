@@ -13,4 +13,3 @@ const createOption = (query, crypto = '') => {
   }
 }
 module.exports = createOption
-
